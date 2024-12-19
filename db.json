@@ -1,0 +1,131 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "photo": "",
+      "mobile": "9947637828",
+      "company": "Deckow-Crist",
+      "title": "Network Admin",
+      "groupId": "3"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg",
+      "mobile": "7306681608",
+      "company": "Deckow-Crist",
+      "title": " HR",
+      "groupId": "2"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "photo": "",
+      "mobile": "010-692-6593 x09125",
+      "company": "Deckow-Crist",
+      "title": " Engineer",
+      "groupId": "1"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "photo": "",
+      "mobile": "010-692-6593 x09125",
+      "company": "Deckow-Crist",
+      "title": " Doctor",
+      "groupId": "1"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "photo": "",
+      "mobile": "010-692-6593 x09125",
+      "company": "Deckow-Crist",
+      "title": " Business man",
+      "groupId": "2"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "photo": "",
+      "mobile": "010-692-6593 x09125",
+      "company": "Deckow-Crist",
+      "title": " Nurse",
+      "groupId": "2"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "photo": "",
+      "mobile": "010-692-6593 x09125",
+      "company": "Deckow-Crist",
+      "title": " Baker",
+      "groupId": "3"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "photo": "",
+      "mobile": "010-692-6593 x09125",
+      "company": "Deckow-Crist",
+      "title": " Teacher",
+      "groupId": "2"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "photo": "",
+      "mobile": "010-692-6593 x09125",
+      "company": "Deckow-Crist",
+      "title": " HR",
+      "groupId": "2"
+    },
+    {
+      "groupId": "2",
+      "id": "cat3",
+      "name": "shamnad",
+      "photo": "https://www.freeiconspng.com/thumbs/teacher-png/best-cartoon-teacher-png-clipart-23.png",
+      "mobile": "7306681608",
+      "email": "rahilana88@gmail.com",
+      "company": "dhehdfjhe",
+      "title": "Teacher"
+    }
+  ],
+  "group": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegue"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}

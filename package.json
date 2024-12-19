@@ -1,0 +1,25 @@
+{
+  "name": "contact-server-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+"start": "node index.js"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahlabdulgafoor/contact-server-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahlabdulgafoor/contact-server-app/issues"
+  },
+  "homepage": "https://github.com/rahlabdulgafoor/contact-server-app#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "i": "^0.3.7",
+    "json-server": "^0.17.3",
+    "npm": "^10.9.2"
+  }
+}
